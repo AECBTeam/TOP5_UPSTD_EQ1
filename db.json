@@ -1,0 +1,337 @@
+{
+	"ARC_2":
+	[
+		{
+			"EQUIPE_1":
+			{
+				"EHS":
+				{
+					"ligne_sans_accident":5,
+					"site_sans_accident":10
+				},
+				"QUALITE_RENDEMENT":
+				[
+					{
+						"OBJ":
+						{
+							"date":" ",
+							"rdt_global_v":100,
+							"rdt_global_c":" ",
+							"def_arc_mat_v":10,
+							"def_arc_mat_c":" ",
+							"def_arc_fac_v":10,
+							"def_arc_fac_c":" ",
+							"def_arc_ema_v":10,
+							"def_arc_ema_c":" ",
+							"def_arc_tac_v":10,
+							"def_arc_tac_c":"",
+							"def_arc_ray_v":10,
+							"def_arc_ray_c":" ",
+							"def_arc_cer_v":10,
+							"def_arc_cer_c":" ",
+							"def_arc_opt_v":10,
+							"def_arc_opt_c":" ",
+							"def_arc_cas_v":10,
+							"def_arc_cas_c":" "
+						}
+					},
+					{
+						"J1":
+						{
+							"date":"03/08/2020",
+							"rdt_global_v":100,
+							"rdt_global_c":"OK",
+							"def_arc_mat_v":0,
+							"def_arc_mat_c":"OK",
+							"def_arc_fac_v":0,
+							"def_arc_fac_c":"OK",
+							"def_arc_ema_v":0,
+							"def_arc_ema_c":"OK",
+							"def_arc_tac_v":0,
+							"def_arc_tac_c":"OK",
+							"def_arc_ray_v":0,
+							"def_arc_ray_c":"OK",
+							"def_arc_cer_v":0,
+							"def_arc_cer_c":"OK",
+							"def_arc_opt_v":0,
+							"def_arc_opt_c":"OK",
+							"def_arc_cas_v":0,
+							"def_arc_cas_c":"OK"
+						}
+					},
+					{
+						"SEMAINE":
+						{
+							"date":" ",
+							"rdt_global_v":100,
+							"rdt_global_c":" ",
+							"def_arc_mat_v":10,
+							"def_arc_mat_c":" ",
+							"def_arc_fac_v":10,
+							"def_arc_fac_c":" ",
+							"def_arc_ema_v":10,
+							"def_arc_ema_c":" ",
+							"def_arc_tac_v":10,
+							"def_arc_tac_c":" ",
+							"def_arc_ray_v":10,
+							"def_arc_ray_c":" ",
+							"def_arc_cer_v":10,
+							"def_arc_cer_c":" ",
+							"def_arc_opt_v":10,
+							"def_arc_opt_c":" ",
+							"def_arc_cas_v":10,
+							"def_arc_cas_c":" "
+						}
+					}
+				],
+				"QUALITE_REFUS_AUDIT":
+				[
+					{
+						"OBJ":
+						{
+							"date":" ",
+							"valeur":10,
+							"conforme":" "
+						}
+					},
+					{
+						"J1":
+						{
+							"date":"03/08/2020",
+							"valeur":11,
+							"conforme":"NC"
+						}
+					},
+					{
+						"SEMAINE":
+						{
+							"date":" ",
+							"valeur":10,
+							"conforme":" "
+						}
+					}
+				],
+				"SERVICE_CLIENT":
+				[
+					{
+						"OBJ":
+						{
+							"date":" ",
+							"valeur":90,
+							"conforme":" "
+						}
+					},
+					{
+						"J1":
+						{
+							"date":"03/08/2020",
+							"valeur":80,
+							"conforme":"NC"
+						}
+					},
+					{
+						"SEMAINE":
+						{
+							"date":" ",
+							"valeur":90,
+							"conforme":" "
+						}
+					}
+				],
+				"PERFORMANCE_INDUSTRIELLE":
+				[
+					{
+						"OBJ":
+						{
+							"date":" ",
+							"valeur":90,
+							"conforme":" "
+						}
+					},
+					{
+						"J1":
+						{
+							"date":"03/08/2020",
+							"valeur":100,
+							"conforme":"OK"
+						}
+					},
+					{
+						"SEMAINE":
+						{
+							"date":" ",
+							"valeur":100,
+							"conforme":" "
+						}
+					}
+				]
+			}
+		},
+		{
+			"EQUIPE_T":
+			{
+				"EHS":
+				{
+					"ligne_sans_accident":10,
+					"site_sans_accident":10
+				},
+				"QUALITE_RENDEMENT":
+				[
+					{
+						"OBJ":
+						{
+							"date":" ",
+							"rdt_global_v":10,
+							"rdt_global_c":" ",
+							"def_arc_mat_v":10,
+							"def_arc_mat_c":" ",
+							"def_arc_fac_v":10,
+							"def_arc_fac_c":" ",
+							"def_arc_ema_v":10,
+							"def_arc_ema_c":" ",
+							"def_arc_tac_v":10,
+							"def_arc_tac_c":" ",
+							"def_arc_ray_v":10,
+							"def_arc_ray_c":" ",
+							"def_arc_cer_v":10,
+							"def_arc_cer_c":" ",
+							"def_arc_opt_v":10,
+							"def_arc_opt_c":" ",
+							"def_arc_cas_v":10,
+							"def_arc_cas_c":" "
+						}
+					},
+					{
+						"J1":
+						{
+							"date":"03/08/2020",
+							"rdt_global_v":90,
+							"rdt_global_c":"OK",
+							"def_arc_mat_v":0,
+							"def_arc_mat_c":"OK",
+							"def_arc_fac_v":4,
+							"def_arc_fac_c":"OK",
+							"def_arc_ema_v":6,
+							"def_arc_ema_c":"OK",
+							"def_arc_tac_v":5,
+							"def_arc_tac_c":"OK",
+							"def_arc_ray_v":10,
+							"def_arc_ray_c":"NC",
+							"def_arc_cer_v":10,
+							"def_arc_cer_c":"NC",
+							"def_arc_opt_v":0,
+							"def_arc_opt_c":"OK",
+							"def_arc_cas_v":0,
+							"def_arc_cas_c":"OK"
+						}
+					},
+					{
+						"SEMAINE":
+						{
+							"date":" ",
+							"rdt_global_v":10,
+							"rdt_global_c":" ",
+							"def_arc_mat_v":10,
+							"def_arc_mat_c":" ",
+							"def_arc_fac_v":10,
+							"def_arc_fac_c":" ",
+							"def_arc_ema_v":10,
+							"def_arc_ema_c":" ",
+							"def_arc_tac_v":10,
+							"def_arc_tac_c":" ",
+							"def_arc_ray_v":10,
+							"def_arc_ray_c":" ",
+							"def_arc_cer_v":10,
+							"def_arc_cer_c":" ",
+							"def_arc_opt_v":10,
+							"def_arc_opt_c":" ",
+							"def_arc_cas_v":10,
+							"def_arc_cas_c":" "
+						}
+					}
+				],
+				"QUALITE_REFUS_AUDIT":
+				[
+					{
+						"OBJ":
+						{
+							"date":" ",
+							"valeur":10,
+							"conforme":" "
+						}
+					},
+					{
+						"J1":
+						{
+							"date":"03/08/2020",
+							"valeur":8,
+							"conforme":"OK"
+						}
+					},
+					{
+						"SEMAINE":
+						{
+							"date":" ",
+							"valeur":9,
+							"conforme":" "
+						}
+					}
+				],
+				"SERVICE_CLIENT":
+				[
+					{
+						"OBJ":
+						{
+							"date":" ",
+							"valeur":99,
+							"conforme":" "
+						}
+					},
+					{
+						"J1":
+						{
+							"date":"03/08/2020",
+							"valeur":94,
+							"conforme":"NC"
+						}
+					},
+					{
+						"SEMAINE":
+						{
+							"date":" ",
+							"valeur":94,
+							"conforme":" "
+						}
+					}
+				],
+				"PERFORMANCE_INDUSTRIELLE":
+				[
+					{
+						"OBJ":
+						{
+							"date":" ",
+							"valeur":90,
+							"conforme":" "
+						}
+					},
+					{
+						"J1":
+						{
+							"date":"03/08/2020",
+							"valeur":80,
+							"conforme":"OK"
+						}
+					},
+					{
+						"SEMAINE":
+						{
+							"date":" ",
+							"valeur":85,
+							"conforme":" "
+						}
+					}
+				]
+			}
+		}
+	]
+}
